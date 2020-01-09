@@ -5,9 +5,9 @@ This github repo contains codes fro Comp 451 project
 
 # Index
 
-1 EzyDist -- Contains the First experiment for the project Resnet Distillaiton codes\n
-2 DIST -- Contains the Fully Convolutional Network Distillation codes
-3 Report -- Report for the project
+1 EzyDist -- Contains the First experiment for the project Resnet Distillaiton codes <br/>
+2 DIST -- Contains the Fully Convolutional Network Distillation codes <br/>
+3 Report -- Report for the project <br/>
 
 # Starting 
 
@@ -18,8 +18,8 @@ on Colab put the folders in your drive and link the drive to the notebook on Col
 
 These code repos are used in this project:
 
-•	https://github.com/affromero/FCN
-•	https://github.com/wuhuikai/FastFCN
-•	https://github.com/irfanICMLL/structure_knowledge_distillation
-•	https://github.com/peterliht/knowledge-distillation-pytorch
+•	https://github.com/affromero/FCN <br/>
+•	https://github.com/wuhuikai/FastFCN <br/>
+•	https://github.com/irfanICMLL/structure_knowledge_distillation <br/>
+•	https://github.com/peterliht/knowledge-distillation-pytorch <br/>
 
