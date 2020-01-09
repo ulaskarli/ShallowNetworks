@@ -5,7 +5,7 @@ This github repo contains codes fro Comp 451 project
 
 # Index
 
-1 EzyDist -- Contains the First experiment for the project Resnet Distillaiton codes
+1 EzyDist -- Contains the First experiment for the project Resnet Distillaiton codes\n
 2 DIST -- Contains the Fully Convolutional Network Distillation codes
 3 Report -- Report for the project
 
